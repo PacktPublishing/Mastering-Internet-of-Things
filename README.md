@@ -11,7 +11,9 @@ All chapters contain code. Codes are given as a combined project "MIoT-master".
 
 The code will look like the following:
 
+
 foreach (KeyValuePair<string, object> Parameter in Event.Tags)
+
 
 			{
 			
